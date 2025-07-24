@@ -1,4 +1,4 @@
-package com.igor.pokersim.player;
+package com.igor.pokersim;
 
 public class Player {
     
